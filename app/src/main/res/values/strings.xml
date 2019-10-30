@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dự án</string>
+
+    <string name="ok" translatable="false">OK</string>
+    <string name="city" translatable="false">CITY</string>
+    <string name="ten_thanh_pho" translatable="false">City : </string>
+    <string name="ten_dat_nuoc" translatable="false">Country : </string>
+    <string name="windy" translatable="false">Windy</string>
+    <string name="clouds" translatable="false">Clouds</string>
+    <string name="sunny" translatable="false">Sunny</string>
+    <string name="dry" translatable="false">Dry</string>
+    <string name="wet" translatable="false">Wet</string>
+    <string name="fine" translatable="false">Clear</string>
+    <string name="foggy" translatable="false">Foggy</string>
+    <string name="cac_ngay_tiep" translatable="false">Next day</string>
+    <string name="tk_trenbando" translatable="false">Maps</string>
+    <string name="nhaptenthanhpho" translatable="false">Address</string>
+    <string name="vitrihientai" translatable="false">Here</string>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</resources>

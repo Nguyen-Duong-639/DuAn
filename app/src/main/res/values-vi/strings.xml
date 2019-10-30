@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dự án</string>
+    <string name="cac_ngay_tiep" translatable="false">Các ngày tiếp theo</string>
+    <string name="city" translatable="false">Tên thành phố</string>
+    <string name="clouds" translatable="false">Mây</string>
+    <string name="dry" translatable="false">Hanh khô</string>
+    <string name="fine" translatable="false">Trời trong lành</string>
+    <string name="ok" translatable="false">Đồng ý</string>
+    <string name="sunny" translatable="false">Nắng</string>
+    <string name="ten_dat_nuoc" translatable="false">"Tên quốc gia: "</string>
+    <string name="ten_thanh_pho" translatable="false">"Tên thành phố: "</string>
+    <string name="wet" translatable="false">Độ ẩm</string>
+    <string name="windy" translatable="false">Gió</string>
+    <string name="foggy" translatable="false">Sương mù</string>
+</resources>

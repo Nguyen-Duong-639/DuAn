@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="@dimen/_60sdp"
+    android:layout_height="@dimen/_125sdp"
+    android:background="@drawable/vuongtrong"
+    android:layout_marginRight="@dimen/_1sdp"
+    android:layout_marginLeft="@dimen/_1sdp">
+
+    <TextView
+        android:id="@+id/thu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="@dimen/_6sdp"
+        android:layout_marginTop="@dimen/_5sdp" />
+
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_width="@dimen/_35sdp"
+        android:layout_height="@dimen/_35sdp"
+        android:src="@drawable/rain"/>
+
+    <TextView
+        android:id="@+id/statusitem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/ndmax"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_10sdp" />
+
+    <TextView
+        android:id="@+id/ndmin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_3sdp" />
+
+</LinearLayout>
